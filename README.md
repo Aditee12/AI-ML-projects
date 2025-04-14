@@ -35,5 +35,4 @@ Welcome to the **AI-ML Projects** repository! This repo contains a collection of
 - **Pandas**, **NumPy** – Data manipulation
 - **Matplotlib**, **Seaborn** – Visualization (if used)
 - **Scikit-learn** – Machine learning algorithms
-- **NLTK / Regex** – (Used in fake news or chatbot if text is involved)
 - **Jupyter Notebook / VS Code** – Development environments
